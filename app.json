@@ -1,13 +1,13 @@
 {
- "name": "TG Files to Link",
- "description": "Telegram files to Direct link!!",
- "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "name": "Hall of Christmas",
+ "description": "Telegram ju to Image!!",
+ "logo": "https://telegra.ph/file/315d6985c6fe4f6824cde.jpg",
  "keywords": [
    "telegram",
-   "FiletoLinkBot",
+   "FilkBot",
    "For ScreenShot Bot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/synuser/musical-waddle",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
