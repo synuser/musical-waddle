@@ -7,27 +7,10 @@
    "FilkBot",
    "For ScreenShot Bot"
   ],
- "repository": "https://github.com/synuser/musical-waddle",
+ "repository": "https://github.com/synuser/TransferSH",
  "env": {
-   "TG_API_ID": {
+   "TOKEN": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
-      "value": ""
-  },
-   "TG_API_HASH": {
-      "description": " Your Telegram API hash. Get this value from my.telegram.org!",
-      "value": ""
-  },
-   "BOT_TOKEN": {
-      "description": "Your Bot token, as a string",
-      "value": ""
-  },
-   "HOST": {
-      "description": "Leave the Same Value",
-      "value": "0.0.0.0",
-      "required": false
-  },
-   "PUBLIC_URL": {
-      "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
       "value": ""
   }
  }
